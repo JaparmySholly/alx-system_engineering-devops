@@ -1,1 +1,1 @@
-a script that creates an empty file called hello
+file hello will be in the working directory
