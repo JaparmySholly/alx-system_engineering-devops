@@ -1,1 +1,1 @@
-a script that displays a confused smiley
+a shell script that creates a file named exactly 
